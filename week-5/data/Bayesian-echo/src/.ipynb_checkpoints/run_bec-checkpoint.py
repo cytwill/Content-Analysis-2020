@@ -31,7 +31,7 @@ def main():
     use_prior = True
     non_diagonal = True
     # a speaker uttering fewer than this number will be removed
-    min_number_msg = 5
+    min_number_msg = 1
     merge_consecutive_from_same_sender = True
 
     # samples and burn-in's
